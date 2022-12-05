@@ -1,3 +1,5 @@
+This code has not been maintained. Modification may be required before it will run properly.
+
 # NanoStringBionet and NSfunc
 NSfunc is an R package that leverages a variety of other R packages to 
 provide analysis functions for NanoString data sets. By installing this
